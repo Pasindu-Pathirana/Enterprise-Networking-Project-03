@@ -1,6 +1,6 @@
 # Enterprise-Networking-Project-03
-Hotel Management Network Design &amp; Implementation
-----------------------------------------------------
+Enterprise Network Project in Cisco Packet Tracer — Hotel Management Network Design &amp; Implementation
+--------------------------------------------------------------------------------------------------------
 
 
 
